@@ -1,0 +1,10 @@
+{% for name, log in environments.items() %}
+## {{ name }}
+
+```console
+{{ log }}
+```
+{% if not loop.last %}
+
+{% endif -%}
+{% endfor %}
