@@ -49,7 +49,7 @@ classifiers = [
     "Typing :: Typed",
 ]
 dependencies = [
-    "click>=7.0",
+    "click>=8.4.2",
     "dataclasses-json",
     "invoke",
     "Jinja2",
