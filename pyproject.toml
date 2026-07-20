@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [dependency-groups]
 dev = [
     "bump-my-version",
-    "invokelint[basic]>=0.19.0",
+    "invokelint[basic]>=0.20.1",
     "pytest-mock",
     "pyvelocity; python_version >= '3.9'",
 ]
