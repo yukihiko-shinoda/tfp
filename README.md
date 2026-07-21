@@ -2,8 +2,8 @@
 
 [![Test](https://github.com/yukihiko-shinoda/tfp/workflows/Test/badge.svg)](https://github.com/yukihiko-shinoda/tfp/actions?query=workflow%3ATest)
 [![CodeQL](https://github.com/yukihiko-shinoda/tfp/workflows/CodeQL/badge.svg)](https://github.com/yukihiko-shinoda/tfp/actions?query=workflow%3ACodeQL)
-[![Code Coverage](https://qlty.sh/gh/yukihiko-shinoda/projects/tfp/coverage.svg)](https://qlty.sh/gh/yukihiko-shinoda/projects/tfp)
-[![Maintainability](https://qlty.sh/gh/yukihiko-shinoda/projects/tfp/maintainability.svg)](https://qlty.sh/gh/yukihiko-shinoda/projects/tfp)
+[![Code Coverage](https://qlty.sh/gh/yukihiko-shinoda/projects/tfpcli/coverage.svg)](https://qlty.sh/gh/yukihiko-shinoda/projects/tfpcli)
+[![Maintainability](https://qlty.sh/gh/yukihiko-shinoda/projects/tfpcli/maintainability.svg)](https://qlty.sh/gh/yukihiko-shinoda/projects/tfpcli)
 [![Dependabot](https://flat.badgen.net/github/dependabot/yukihiko-shinoda/tfp?icon=dependabot)](https://github.com/yukihiko-shinoda/tfp/security/dependabot)
 [![Python versions](https://img.shields.io/pypi/pyversions/tfpcli)](https://pypi.org/project/tfpcli/)
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/tfpcli)](https://pypi.org/project/tfpcli/)
